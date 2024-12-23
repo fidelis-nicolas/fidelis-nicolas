@@ -42,9 +42,9 @@ Hello! I'm **Fidelis A. Olajuwon**, a passionate software developer, educator, a
 ---
 
 ## Let's Connect
-- **LinkedIn**: [Your LinkedIn Profile](#)
-- **GitHub Portfolio**: Check out my [projects](#).
-- **Email**: [fidelis.email@example.com](mailto:fidelis.email@example.com)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/agoundjekpo-fidelis-197070118/)
+- **GitHub Portfolio**: Check out my [projects](https://github.com/fidelis-nicolas).
+- **Email**: [fidelisnicolas@gmail.com](mailto:fidelisnicolas@gmail.com)
 
 ---
 
